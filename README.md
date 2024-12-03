@@ -11,7 +11,7 @@
     `pip install Flask`
     `pip install Flask-Cors`
 4. Now just activate the environment and run the code.
-5. After that run the code for the frontend using 'npm run dev`. 
+5. After that run the code for the frontend by firstly installing using `npm install` and then run using 'npm run dev`. 
 6. Open the your desirable browser and go to the `http://localhost:5173/`.
 
 #### Machine Learning Model:
